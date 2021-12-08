@@ -12,3 +12,9 @@ The methodology used to this excercise is the following:
 4. Command that saves the 1min audio into aac format.
 5. Merge points 2, 3, 4.
 The results and exports of every step are into the "container" folder.
+
+## Excercise 3
+We only run the command to print the standard encoding of the file.
+
+## Excercise 4
+The first step is download the srt file with all the information of the subtitles. Then, we run the ffmpeg command and we export the resulting video.
